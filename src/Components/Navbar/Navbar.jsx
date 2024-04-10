@@ -1,6 +1,6 @@
 import React, { useContext, useRef, useState } from "react";
 import "./Navbar.css";
-import logo from "../Assets/logo.png";
+import logo from "../Assets/tth.png";
 import cart_icon from "../Assets/cart_icon.png";
 import nav_dropdown from "../Assets/nav_dropdown.png";
 import { Link } from "react-router-dom";
